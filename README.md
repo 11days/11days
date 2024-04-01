@@ -6,10 +6,6 @@
 
 </a>
 
-<a href="#">
-  <img align="right" src="https://metrics.lecoq.io/11days?template=terminal" />
-</a>
-
 # 11days 🌝
 
 <img width="340px" src="https://github-readme-stats.vercel.app/api?username=11days&theme=vue-dark&count_private=true&show_icons=true">
